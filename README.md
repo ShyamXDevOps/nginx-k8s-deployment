@@ -6,7 +6,7 @@ It demonstrates a simple use of `Deployment` in Kubernetes for **load balancing*
 
 ---
 
-## 🚀 What This Does
+## What This Does
 
 - Deploys **NGINX** using a **Deployment controller**
 - Runs **3 replica pods**
@@ -15,7 +15,7 @@ It demonstrates a simple use of `Deployment` in Kubernetes for **load balancing*
 
 ---
 
-## 🧾 Kubernetes Manifest Used
+## Kubernetes Manifest Used
 
 ```yaml
 apiVersion: apps/v1
